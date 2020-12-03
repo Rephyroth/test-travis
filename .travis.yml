@@ -1,1 +1,5 @@
-asd
+language : python
+python: 
+  - 3.8
+script:
+  - pytest 
